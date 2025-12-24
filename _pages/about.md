@@ -25,7 +25,7 @@ redirect_from:
 
 ### Conferences
 ---
-**<span style="background-color: #4169E1; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">MobiCom</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Neuralite: Enabling Wireless High-Resolution Brain-Computer Interfaces</span>  
+**<span style="background-color: #CD5C5C; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">MobiCom</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Neuralite: Enabling Wireless High-Resolution Brain-Computer Interfaces</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>, Junyi Wang, Liuqun Zhai, Yuguang Fang, Jun Huang</span>  
 2024, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://dl.acm.org/doi/pdf/10.1145/3636534.3690673?casa_token=-x-MN3uYJ3kAAAAA:cyllAmMC6ITr9jX-LPbgTqbeGvOjSEHGK-r4Zt7IKY2LK_mg3a1IckPNToh2J3NrTcnysgBiWdQuSQ)">paper</a>
@@ -44,11 +44,15 @@ redirect_from:
 </a> |
 
 ---
-**<span style="background-color: #198754; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">HotMobile</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Neuron-Aware Brain-to-Computer Communication for Wireless Intracortical BCI</span>  
+**<span style="background-color: #708090; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">HotMobile</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Neuron-Aware Brain-to-Computer Communication for Wireless Intracortical BCI</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>\, Junyi Wang, Xi Chen, Jun Huang</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://dl.acm.org/doi/pdf/10.1145/3638550.3641141?casa_token=t8-ceyd4wysAAAAA:XYpeTwWlb_EhlY-18qsWPrjnDVnfu1_Nh1AeR1MG4o1QeXI_71r1xWIUgaxSTXO12HgAoYm2BOYpgA">paper</a> |
 
 ### Journal
+---
+**<span style="background-color: #708090; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">HotMobile</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Neuron-Aware Brain-to-Computer Communication for Wireless Intracortical BCI</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>\, Junyi Wang, Xi Chen, Jun Huang</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://dl.acm.org/doi/pdf/10.1145/3638550.3641141?casa_token=t8-ceyd4wysAAAAA:XYpeTwWlb_EhlY-18qsWPrjnDVnfu1_Nh1AeR1MG4o1QeXI_71r1xWIUgaxSTXO12HgAoYm2BOYpgA">paper</a> |
 
 
 ## Awards
