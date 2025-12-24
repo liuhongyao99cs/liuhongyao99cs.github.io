@@ -4,6 +4,10 @@ title: "Full Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<span style="font-size:15px;">(**\*** equal contributions, **#** the corresponding author.)  </span>
+
+---
 **<span style="background-color: #CD5C5C; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">MobiCom</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Neuralite: Enabling Wireless High-Resolution Brain-Computer Interfaces</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>, Junyi Wang, Liuqun Zhai, Yuguang Fang, Jun Huang</span>  
 2024, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
@@ -27,7 +31,6 @@ author_profile: true
 <span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>, Junyi Wang, Xi Chen, Jun Huang</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://dl.acm.org/doi/pdf/10.1145/3638550.3641141?casa_token=t8-ceyd4wysAAAAA:XYpeTwWlb_EhlY-18qsWPrjnDVnfu1_Nh1AeR1MG4o1QeXI_71r1xWIUgaxSTXO12HgAoYm2BOYpgA">paper</a> |
 
-### Journal
 ---
 **<span style="background-color: #0d6efd; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Micromachine</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Switchable and Dual-Tunable Multilayered Terahertz Absorber Based on Patterned Graphene and Vanadium Dioxide</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>, Panpan Wang, Jiali Wu, Xin Yan, Xueguang Yuan, Yangan Zhang, Xia Zhang</span>  
