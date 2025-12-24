@@ -17,9 +17,13 @@ redirect_from:
 
 ## Research Interests
 <span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;"> 
-<strong>(1)</strong> <u>AIoT</u>; </span>
+<strong>(1)</strong> <u>AIoT</u>: efficient network streaming algorithm design to support on-device AI and other sensing applications; </span>
 
 <span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;"> 
+<strong>(2)</strong> <u>BCI</u>: efficient streaming framework design for wireless brain-computer interfaces; </span>
+
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;"> 
+<strong>(3)</strong> <u>On-device LLM serving</u>: faster response of edge LLMs using wireless streaming and efficient computing; </span>
 
 ## Selected Publications
 
@@ -45,17 +49,23 @@ redirect_from:
 
 ---
 **<span style="background-color: #708090; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">HotMobile</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Neuron-Aware Brain-to-Computer Communication for Wireless Intracortical BCI</span>  
-<span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>\, Junyi Wang, Xi Chen, Jun Huang</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>, Junyi Wang, Xi Chen, Jun Huang</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://dl.acm.org/doi/pdf/10.1145/3638550.3641141?casa_token=t8-ceyd4wysAAAAA:XYpeTwWlb_EhlY-18qsWPrjnDVnfu1_Nh1AeR1MG4o1QeXI_71r1xWIUgaxSTXO12HgAoYm2BOYpgA">paper</a> |
 
 ### Journal
 ---
-**<span style="background-color: #708090; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Micromachine</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Switchable and Dual-Tunable Multilayered Terahertz Absorber Based on Patterned Graphene and Vanadium Dioxide</span>  
-<span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>\, Panpan Wang, Jiali Wu, Xin Yan, Xueguang Yuan, Yangan Zhang, Xia Zhang</span>  
+**<span style="background-color: #0d6efd; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Micromachine</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Switchable and Dual-Tunable Multilayered Terahertz Absorber Based on Patterned Graphene and Vanadium Dioxide</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>, Panpan Wang, Jiali Wu, Xin Yan, Xueguang Yuan, Yangan Zhang, Xia Zhang</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://www.mdpi.com/2072-666X/12/6/619">paper</a> |
+
+---
+**<span style="background-color: #0d6efd; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Electronics</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Analysis of terahertz wave on increasing radar cross section of 3D conductive model</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>, Panpan Wang, Jiali Wu, Xin Yan, Yangan Zhang, Xia Zhang</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://www.mdpi.com/2079-9292/10/1/74">paper</a> |
 
 
 ## Awards
+
 
 
 <!-- 
