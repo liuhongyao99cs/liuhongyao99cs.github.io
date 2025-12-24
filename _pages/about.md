@@ -68,8 +68,31 @@ redirect_from:
 
 
 ## Awards
+---
+<div style="font-family: system-ui, sans-serif; margin-bottom: 8px;">
+    <span style="background-color: #6c757d; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; margin-right: 5px;">2021</span>
+    
+    <span style="background-color: #4169E1; color: white; padding: 2px 8px; border-radius: 10px; font-size: 13px; font-weight: bold;">
+        Beijing University of Posts and Telecommunications (BUPT)
+    </span>
+    
+    <span style="margin-left: 5px; color: #333;">
+        Second-Class Scholarship
+    </span>
+</div>
 
---
+---
+<div style="font-family: system-ui, sans-serif; margin-bottom: 8px;">
+    <span style="background-color: #6c757d; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; margin-right: 5px;">2024-2025</span>
+    
+    <span style="background-color: #4169E1; color: white; padding: 2px 8px; border-radius: 10px; font-size: 13px; font-weight: bold;">
+        City University of Hong Kong (CityUHK)
+    </span>
+    
+    <span style="margin-left: 5px; color: #333;">
+        City University of Hong Kong (CityUHK)Research Tuition Scholarship
+    </span>
+</div>
 
 
 
