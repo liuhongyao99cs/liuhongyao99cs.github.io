@@ -12,8 +12,9 @@ redirect_from:
 
 ## About Me
 <p style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">
-  I am a third-year Ph.D. student in the Department of Computer Science at <strong>City University of Hong Kong</strong>. 
+  I am a third-year Ph.D. student in the Department of Computer Science at <strong>City University of Hong Kong</strong>. I am supervised by [Prof. Jun Huang][https://www.cs.cityu.edu.hk/~jhuan9/]. I was bachelor of Communication Engineering, BUPT.
 </p>
+
 
 ## Research Interests
 <div style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
