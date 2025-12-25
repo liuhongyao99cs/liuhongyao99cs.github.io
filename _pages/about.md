@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[View My CV](https://github.com/liuhongyao99cs/liuhongyao99cs.io/tree/master/files/CV-Hongyao.pdf)
+[View My CV](/files/CV-Hongyao.pdf)
 
 
 ## About Me
