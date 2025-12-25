@@ -70,6 +70,23 @@ redirect_from:
 <span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>, Panpan Wang, Jiali Wu, Xin Yan, Yangan Zhang, Xia Zhang</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://www.mdpi.com/2079-9292/10/1/74">paper</a> |
 
+## Projects
+---
+**<span style="background-color: #198754; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">iBCI</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">32-channel wireless iBCI headstage</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>
+| <i class="fa fa-github"></i> <a href="https://github.com/liuhongyao99cs/32-Channel-Wireless-BCI-Headstage" target="_blank" style="
+    background-color: #24292e; 
+    color: white; 
+    padding: 3px 8px; 
+    border-radius: 4px; 
+    text-decoration: none; 
+    font-size: 13px; 
+    font-weight: bold;
+    display: inline-flex; 
+    align-items: center; 
+    vertical-align: middle;">
+  <i class="fab fa-github" style="margin-right: 5px; font-size: 14px;"></i> Code
+</a> |
 
 ## Awards
 ---
